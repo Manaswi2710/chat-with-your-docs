@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pymupdf
+python-dotenv
+python-multipart
+sentence-transformers
+chromadb
+google-genai
